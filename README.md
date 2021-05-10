@@ -1,0 +1,4 @@
+- 👋 Salut, je suis @Jins0
+- 👀 Je m'intéresse actuellement au HTML & CSS
+- 🌱 J'apprends actuellement l'HTML & CSS.
+- 📫 Vous pouvez me rejoindre sur Discord : jins#1337
