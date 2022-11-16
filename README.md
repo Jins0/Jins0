@@ -1,4 +1,4 @@
-- 👋 Salut, je suis @Jins0
-- 🌱 J'apprends actuellement le Javascript (Vanilla).
-- 📫 Vous pouvez me rejoindre sur Discord : alta#1337.
-- ❓ Je suis raciste.
+- 👋 Salut, je suis Vlad ! 
+- 🌱 J'apprends actuellement le framework Tailwind.
+- 📫 Vous pouvez me rejoindre sur Discord : vlad!#6519
+- ❓ Jveux du biff.
